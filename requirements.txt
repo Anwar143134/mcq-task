@@ -1,0 +1,7 @@
+django
+django-registration==2.4.1
+django-registration-redux
+django-crispy_forms
+
+
+
